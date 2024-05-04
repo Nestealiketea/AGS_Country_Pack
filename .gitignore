@@ -2,22 +2,6 @@
 Binaries/
 DerivedDataCache/
 Intermediate/
-Saved/
-Plugins/
-Windows/
-
-# Ignore client's content
-Content/VigilanteMovement/Projectile/
-Content/VigilanteMovement/Transport/
-Content/VigilanteMovement/Vehicles/
-Content/VigilanteMovement/Level
-
-
-# Ignore purchased content
-Content/AAAModularSoldier/
-Content/AdvancedLocomotionV4/
-Content/AGS/Weapons/
-Content/FluidFlux/
 
 # Ignore temporary files
 .vscode/
@@ -30,5 +14,4 @@ Content/FluidFlux/
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.bat
 *.zip
